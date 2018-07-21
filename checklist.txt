@@ -1,0 +1,384 @@
+# Minecraft World To Do List / Notes (ver 2.5) 
+# by Rocktiki
+# - updated for 1.13:
+
+World Name:
+World Seed: (if known)
+
+Started:
+Updated:
+
+Settings:
+
+=== Generic Starting Checklist/Plan ===
+
+Day One:
+[ ] mark spawn point
+[ ] Punch Wood (16 blocks) (turn into 7 blocks, 20 planks, and 64 sticks)
+[ ] Crafting Table
+[ ] pick, shovel, axe
+[ ] Get cobble (17 blocks)
+[ ] Furnace, sword, pick, shovel, axe
+[ ] Make charcoal (if no coal found - use 4 blocks of wood for two charcoal)
+[ ] Torches
+[ ] emergency food 
+[ ] emergency outpost?
+
+Day Two:
+[ ] Locate Sheep! 
+[ ] Make Bed
+[ ] Sand, make glass
+[ ] starter house
+[ ] sink first mineshaft
+	[ ] goal 64 iron 
+	[ ] armor, pick, shovel, axe, bucket
+	[ ] goal 64 coal
+[ ] shield (1.9)
+
+Day Three:
+[ ] stable food source with starter farms
+[ ] Starter resources with branch mine and at least two branches.
+[ ] make travel chest with items required for exploration trips. (Food, tools, armor, boat, etc... 
+
+Day Four - Eleven:
+[ ] Scout out area, looking for resources, villages, biomes, and place for starter house. Travel one day in each direction, and back.
+
+Day Twelve on:
+[ ] Start in on first base, and start in on goals, and projects based on exploration.
+
+[ ] Build Nether Portal
+    [ ] glowstone
+    [ ] quartz
+	[ ] soulsand
+    [ ] Nether Fortress
+
+[ ] wither boss
+[ ] get on top of nether
+[ ] find stronghold
+[ ] Ender Dragon
+[ ] End Islands
+	
+=== Generic Chest Layout === 
+
+Layout on 9(chests)x8(sections)=72
+
+Utility:
+Utility
+Tools
+Armour
+Valuables
+Ores
+Redstone
+Odds and Ends
+Rail
+Tackle
+
+Other:
+Brewing
+Enchanting
+Music Discs
+Heads
+Memorabilia  
+Overworld Mob Drops
+Nether Mob Drops
+End Mob Drops
+
+Food:
+Meats
+Seeds
+Misc
+Carrots
+Potatoes
+Wheat
+Sugarcane
+Pumpkin
+Melon
+
+Mineral:
+Dirt
+Cobble
+Stone
+Andisite
+Diorite
+Granite
+Sand
+Gravel
+Stone Crafted
+
+Wood:
+Birch
+Oak
+Dark Oak
+Spruce
+Acacia
+Jungle
+Folliage/Dyes
+Sapplings
+Wood Crafted
+
+Colored Blocks:
+Glass
+Glass
+Glass
+Wool
+Wool
+Wool
+Clay
+Clay
+Clay
+	clear
+	clear
+	white
+	light gray
+	grey
+	black
+	red
+	yellow
+	orange
+	blue
+	light blue
+	cyan
+	green
+	lime
+	orange
+	pink
+	purple
+	magenta
+	brown
+
+Biomes:
+Ice/Snow
+Ocean
+Coral
+Nether Rack
+Nether Bricks
+Nether Odds
+End Stone
+PurPur
+End Odds
+
+Project/Junk/Bulk:
+9 chests
+
+=== Trading Hall ===
+
+50 villagers(?)
+
+Farmer	w: 	c: 	p:
+Farmer	w: 	c: 	p:
+Farmer	w: 	c: 	p:
+Farmer	w: 	c: 	p:
+
+Tool	shvl:	pick:
+Tool	shvl:	pick:
+Tool	shvl:	pick:
+Tool	shvl:	pick:
+
+Weapon	sw:		axe:
+Weapon	sw:		axe:
+Weapon	sw:		axe:
+Weapon	sw:		axe:
+
+Armorer	chest:
+Armorer	chest:
+Armorer	chest:
+Armorer	chest:
+
+Librarian
+Armor:
+prot(4)		book:
+fprot(4)	book:
+bprot(4)	book:
+pprot(4)	book:
+thorns(3)	book:
+feather(4)	book:
+resp(3)		book:
+aqua(1)		book:
+strider(3)	book:
+frost(2)	book:
+Weapon:
+sharp(5)	book:
+smite(5)	book:
+sweep(3)	book:
+bane(4)		book:
+knock(2)	book:
+aspect(2)	book:
+loot(3)		book:
+Bow:
+power(5)	book:
+punch(2)	book:
+flame(1)	book:
+infinity(1)	book:
+Trident:
+loyalty(3)	book:
+channel(1)	book:
+impale(5)	book:
+riptide(3)	book:
+Tool:
+eff(5)		book:
+silk(1)		book:
+unb(3)		book:
+fort(3)		book:
+mend(1)		book:
+Fish:
+luck(3)		book:
+lure(3)		book:
+Curse:
+bind(1)		book:
+vanish(1)	book:
+
+=== Style ===
+
+Palette ideas:
+
+Wood:
+Block:
+Color:
+Light:
+
+=== Projects ===
+
+Animals/Farms:
+[ ] sheep
+    [ ] shears
+    [ ] wool
+    [ ] carpet
+[ ] cows
+    [ ] leather (books)
+[ ] pigs
+[ ] chickens
+    [ ] feathers (arrows)
+[ ] rabbits
+[ ] horses
+[ ] donkeys
+[ ] llamas
+[ ] ocelot/cat
+[ ] wolf/dog
+[ ] parrots
+[ ] squid
+[ ] tropical fish
+[ ] dolphins
+
+[ ] wheat
+    [ ] bread
+[ ] carrots
+[ ] potatoes
+[ ] beets
+
+[ ] pumpkins
+    [ ] jack o'lanterns
+[ ] melons
+[ ] sugarcane
+
+[ ] mushrooms
+[ ] flowers (dyes)
+[ ] tree farm (Basic)
+    [ ] Oak
+    [ ] Dark Oak
+    [ ] Birch
+    [ ] Spruce
+    [ ] Jungle
+    [ ] Acacia
+
+Ores (stack of):
+[ ] coal
+[ ] iron
+[ ] gold
+[ ] emerald
+[ ] lapis
+[ ] diamond
+[ ] redstone
+
+Construction projects:
+[ ] afk fish farm
+[ ] Cobble Stone Generator
+[ ] Smooth Stone Generator 
+[ ] auto enchanting room
+[ ] villager breeder
+[ ] iron farm
+[ ] gold farm
+[ ] villager trade center
+[ ] auto storage system (Bulk/sorted/overflow)
+[ ] auto tree farm
+[ ] auto smelter
+[ ] auto farm carrot/wheat/potatoes
+[ ] auto melon/pumpkin farm
+[ ] auto mushroom farm
+[ ] auto netherwart farm
+[ ] auto meat farms (Cow, Chicken, Pig)
+[ ] Dyed sheep farm
+[ ] auto potion brewery
+[ ] ice farm
+[ ] concrete farm
+[ ] guardian farm
+[ ] blaze spawner rod/XP farm
+[ ] wither skeleton farm
+[ ] ghast/Magma farm
+[ ] Ender pearl/XP farm    
+[ ] Chorus Farm 
+
+Locations:
+[ ] Spawn
+	Coords: 	X-	Y-	Z-
+[ ] Spawn chunks
+	Coords: 	X-	Y-	Z-   TO 	Coords: 	X-	Y-	Z-
+[ ] Spawn house
+	Coords: 	X-	Y-	Z-
+[ ] Main Base
+	Coords: 	X-	Y-	Z-
+[ ] Mineshaft
+	Coords: 	X-	Y-	Z-	
+[ ] Farm
+    Coords: 	X-	Y-	Z-	TYPE
+    Coords: 	X-	Y-	Z-	TYPE
+    Coords: 	X-	Y-	Z-	TYPE
+	
+[ ] Biomes:
+    =Swamp=
+    Coords: 	X-	Y-	Z-
+    =Desert=
+    Coords: 	X-	Y-	Z-
+    =Mesa=
+    Coords: 	X-	Y-	Z-
+    =Flower Forest=
+	Coords: 	X-	Y-	Z-
+	
+[ ] Villages:
+    Coords: 	X-	Y-	Z-
+	Coords: 	X-	Y-	Z-
+	Coords: 	X-	Y-	Z-	
+[ ] Spawner XP farm (Skeleton, Zombie, Spider, Cave Spider)
+    Coords: 	X-	Y-	Z-
+    Coords: 	X-	Y-	Z-
+    Coords: 	X-	Y-	Z-
+[ ] Witch Huts 
+    Coords: 	X-	Y-	Z-
+[ ] Ocean Monuments 
+    Coords: 	X-	Y-	Z-
+[ ] Slime chunks
+    Coords: 	X-	Y-	Z-
+[ ] Desert Temples
+    Coords: 	X-	Y-	Z-
+[ ] Jungle Temples
+    Coords: 	X-	Y-	Z-
+[ ] Igloos
+    Coords: 	X-	Y-	Z-
+[ ] Abandoned Mineshaft
+    Coords: 	X-	Y-	Z-
+    Coords: 	X-	Y-	Z-	
+
+[ ] Nether Portals
+    Coords: 	X-	Y-	Z- 
+[ ] Nether Fortress
+    Coords: 	X-	Y-	Z-
+    Coords: 	X-	Y-	Z-	
+	
+[ ] Strongholds
+	Coords: 	X-	Y-	Z-
+	Coords: 	X-	Y-	Z-
+[ ] Rnd Cities
+    Coords: 	X-	Y-	Z-	
+    Coords: 	X-	Y-	Z-	
+
+	
+	
