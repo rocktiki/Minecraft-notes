@@ -127,7 +127,6 @@ Clay
 Clay
 Clay
 	clear
-	clear
 	white
 	light gray
 	grey
@@ -376,7 +375,7 @@ Locations:
 [ ] Strongholds
 	Coords: 	X-	Y-	Z-
 	Coords: 	X-	Y-	Z-
-[ ] Rnd Cities
+[ ] End Cities
     Coords: 	X-	Y-	Z-	
     Coords: 	X-	Y-	Z-	
 
